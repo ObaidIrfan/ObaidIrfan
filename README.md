@@ -1,5 +1,5 @@
 # Yo, wsg! I'm Obaid 👋
-CS student @ KSU | Robotics researcher | Building intelligent systems for agriculture and autonomous navigation
+CS student @ KSU | Undergraduate researcher | Building intelligent systems for agriculture and autonomous navigation
 
 ## 🤖 Current Focus
 **Undergraduate Research @ KSU CCSE** – Developing autonomous path-planning algorithms for quadrupedal robots in agricultural environments. Working with the Unitree Go1 to create intelligent navigation systems that combine AI, computer vision, and sensor fusion for real-world crop monitoring and smart farming applications.
